@@ -1,0 +1,21 @@
+{
+  "name": "scroll-load",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "watch": "webpack -w"
+  },
+  "author": "Anna Grochola",
+  "license": "ISC",
+  "devDependencies": {
+    "css-loader": "^0.26.2",
+    "node-sass": "^4.5.0",
+    "sass-loader": "^6.0.2",
+    "style-loader": "^0.13.2",
+    "ts-loader": "^2.0.0",
+    "typescript": "^2.2.0-dev.20170213",
+    "webpack": "^2.2.1"
+  }
+}
