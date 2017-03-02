@@ -6,24 +6,24 @@
 
 1. Install webpack locally, as project devDependecy:
 
-```bash
-$ npm install --save-dev webpack
-```
+    ```bash
+    $ npm install --save-dev webpack
+    ```
 2. Install loader .ts -> .js
 
-```bash 
-$ npm install ts-loader
-```
+    ```bash 
+    $ npm install ts-loader
+    ```
 3. Install loaders for sass
 
-```bash
-$ npm install sass-loader node-sass webpack --save-dev
-$ npm install --save-dev css-loader
-$ npm install style-loader --save-dev
-```
+    ```bash
+    $ npm install sass-loader node-sass webpack --save-dev
+    $ npm install --save-dev css-loader
+    $ npm install style-loader --save-dev
+    ```
 
 4. Listens for changes in files, builds dist file
-
-```bash
-$ npm run watch
-```
+    
+    ```bash
+    $ npm run watch
+    ```
